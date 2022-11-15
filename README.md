@@ -1,6 +1,8 @@
 # Chess-2
 Chess 2 by Oats Jenkins
 
+Install: Download Chess2.html and run it in your browser of choice.
+
 Based on Oats Jenkins youtube video "I made a BETTER chess":
 https://www.youtube.com/watch?v=mcivL8u176Y
 
